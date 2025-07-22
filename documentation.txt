@@ -1,0 +1,7 @@
+| Heuristic                                                     | Delay Reason      |
+| ------------------------------------------------------------- | ----------------- |
+| Speed = 0 for > 10 min                                        | Extended Stop     |
+| Slow movement near known busy locations                       | Traffic Jam       |
+| Stop matches a rest point in schedule                         | Bio Break         |
+| Multiple points logged at same location with > threshold time | Operational Delay |
+| Very late at one stop, but fine before                        | Upstream Cascade  |
