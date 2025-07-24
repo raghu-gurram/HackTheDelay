@@ -19,3 +19,14 @@ what i shd build
 24/7/2025
 
 4.50pm - cleaned the vechicle gps data , add start and end time stamps
+
+5:40pm - delya classification model done, 
+✅ Model Comparison Summary
+RandomForest       F1: 0.8633  | Acc: 0.8801  | Prec: 0.8753  | Rec: 0.8517
+DecisionTree       F1: 0.8404  | Acc: 0.8586  | Prec: 0.8437  | Rec: 0.8371
+GradientBoosting   F1: 0.8160  | Acc: 0.8462  | Prec: 0.8712  | Rec: 0.7674
+NaiveBayes         F1: 0.6026  | Acc: 0.7003  | Prec: 0.7339  | Rec: 0.5112
+LogisticRegression F1: 0.5820  | Acc: 0.6713  | Prec: 0.6696  | Rec: 0.5146
+KNN                F1: 0.5354  | Acc: 0.6169  | Prec: 0.5808  | Rec: 0.4966
+SVM                F1: 0.0875  | Acc: 0.5624  | Prec: 0.6000  | Rec: 0.0472
+
