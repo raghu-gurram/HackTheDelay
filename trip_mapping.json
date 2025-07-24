@@ -1,0 +1,4 @@
+{
+  "HYD→PUNE 10:30 PM": {"vehicle_file": "vehicle_hyd_pune.csv", "timetable_file": "timetable_hyd_pune.csv"},
+  "PUNE→HYD 6:00 PM": {"vehicle_file": "vehicle_pune_hyd.csv", "timetable_file": "timetable_pune_hyd.csv"}
+}
