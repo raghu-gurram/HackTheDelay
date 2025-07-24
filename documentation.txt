@@ -5,3 +5,17 @@
 | Stop matches a rest point in schedule                         | Bio Break         |
 | Multiple points logged at same location with > threshold time | Operational Delay |
 | Very late at one stop, but fine before                        | Upstream Cascade  |
+
+what i shd build
+
+| Goal                       | What It Means                                                                             |
+| -------------------------- | ----------------------------------------------------------------------------------------- |
+| ⏱ Delay Classification     | Use ML to predict delay reasons from GPS data                                             |
+| 📍 Traffic Hotspots        | Use clustering (e.g., DBSCAN) to find locations where delays are common                   |
+| 🔮 Future Delay Prediction | Build models using past data to predict delays                                            |
+| 📊 Visualization           | Build a dashboard (Streamlit/Dash) with maps, tables, trip segments, delay visualizations |
+| 🗺 Google Maps Integration | Optional: Plot delay points using Google Maps API or Folium                               |
+
+24/7/2025
+
+4.50pm - clean the vechicle gps data , add start and end time stamps
